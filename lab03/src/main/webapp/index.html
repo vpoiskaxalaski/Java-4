@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+</head>
+<body>
+<a href="GoSss">Go to Sss</a>
+<h3>forward get request from Sss to Ggg servlet with parameter</h3>
+<a href="GoSss?param=parameter">Go to Sss with parameter</a>
+<h3>forward post request from Sss to Ggg servlet with parameter</h3>
+<form action="GoSss" method="POST">
+    <input type="text" name="param">
+    <input type="submit" value="submit">
+</form>
+<h3>forward to html page</h3>
+<a href="GoSss?param=toHtml">Go to Page2</a>
+<h3>forward get request from Sss to Ggg. Than from Ggg to html</h3>
+<a href="GoSss?param=forwardTwice">Forward Twice</a>
+
+<hr>
+
+<h3>redirect get request from Sss1 to Ggg1 servlet with parameter</h3>
+<a href="GoSss1?param=parameter">Go to Sss1</a>
+<h3>redirect post request from Sss to Ggg servlet with parameter</h3>
+<form action="GoSss1" method="POST">
+    <input type="text" name="param">
+    <input type="submit" value="submit">
+</form>
+<h3>redirect to html page</h3>
+<a href="GoSss1?param=toHtml">Go to Page2</a>
+<h3>redirect get request from Sss to Ggg. Than from Ggg to html</h3>
+<a href="GoSss1?param=redirectTwice">Redirect Twice</a>
+</body>
+</html>
