@@ -6,7 +6,52 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40440e2-985f-4b5b-bd4c-677685f55533" name="Default Changelist" comment="" />
+    <list default="true" id="e40440e2-985f-4b5b-bd4c-677685f55533" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/src/main/java/Finder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/src/main/java/Sss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab13/src/main/webapp/stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/.idea/artifacts/lab15_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/.idea/templateLanguages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/src/main/java/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/src/main/java/MailServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab15/src/main/webapp/scripts/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab06/lab06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/lab12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab08/src/main/java/Aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/src/main/java/Aaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab08/target/classes/Aaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/target/classes/Aaa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT/WEB-INF/classes/Aaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT/WEB-INF/classes/Aaa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab09/lab09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/lab15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab13/lab13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab10-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/lab10-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/lab11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/target/lab11-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/target/lab11-1.0-SNAPSHOT.war" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -66,11 +114,12 @@
     </option>
   </component>
   <component name="ProjectId" id="1ResRGEuyZXI0wGlpe4s0VuREba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1-8/lab2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -174,22 +223,7 @@
     <option name="allServicesViewState">
       <serviceView>
         <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@bad17708" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@bad17708" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@2aafa7c9" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@bad17708" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@1aaf8746" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-          </expand>
+          <expand />
           <select />
         </treeState>
       </serviceView>
@@ -208,11 +242,26 @@
       <workItem from="1570038886783" duration="3434000" />
       <workItem from="1570087559313" duration="1807000" />
       <workItem from="1570102069157" duration="8330000" />
+      <workItem from="1570698715795" duration="872000" />
+      <workItem from="1571944836042" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

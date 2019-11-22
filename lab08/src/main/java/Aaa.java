@@ -15,7 +15,8 @@ public class Aaa extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response) throws IOException {
         String inputLine;
         PrintWriter pw = response.getWriter();
-        URL obj = new URL("http://172.16.193.176:8080/Sauchuk_08/main.Bbb");
+        //URL obj = new URL("http://172.16.193.176:8080/Sauchuk_08/main.Bbb");
+        URL obj = new URL("http://localhost:8081/lab08_war//main.Bbb");
         HttpURLConnection httpURLConnection = (HttpURLConnection) obj.openConnection();
 
         httpURLConnection.setRequestMethod("POST");
@@ -27,7 +28,7 @@ public class Aaa extends HttpServlet {
         httpURLConnection.setUseCaches(false);
         httpURLConnection.setDoInput(true);
         httpURLConnection.setDoOutput(true);
-        httpURLConnection.setConnectTimeout(10000);
+        httpURLConnection.setConnectTimeout(15000);
 
         DataOutputStream wr = new DataOutputStream(httpURLConnection.getOutputStream());
         wr.writeBytes(urlParameters);
