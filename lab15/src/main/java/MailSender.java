@@ -16,6 +16,7 @@ public class MailSender {
             msg.addHeader("Content-Transfer-Encoding", "8bit");
 
             msg.setFrom(new InternetAddress("asavchuk001@gmail.com", "Aliona Savchuk"));
+
             msg.setSubject(subject, "UTF-8");
             msg.setText(body, "UTF-8");
             msg.setSentDate(new Date());
@@ -44,12 +45,12 @@ public class MailSender {
             }
         });
         Store store = session.getStore("pop3s");
+
         store.connect(host, user, password);
         Folder folder = store.getFolder("INBOX");
         folder.open(Folder.READ_ONLY);
 
         Message[] messages = folder.getMessages();
-        System.out.println(messages.length);
 
         StringBuilder result = new StringBuilder();
 
