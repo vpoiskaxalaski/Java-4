@@ -7,49 +7,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c2cec47-32dd-4ae2-92c4-5234ede6e8ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab08/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/src/main/java/Finder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/src/main/java/Sss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab13/src/main/webapp/stdout.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/.idea/artifacts/lab15_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/.idea/templateLanguages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/src/main/java/MailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/src/main/java/MailServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab15/src/main/webapp/scripts/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab06/lab06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/lab12.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab07/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab08/src/main/java/Aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/src/main/java/Aaa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab08/target/classes/Aaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/target/classes/Aaa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT/WEB-INF/classes/Aaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab08/target/lab08-1.0-SNAPSHOT/WEB-INF/classes/Aaa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab09/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab09/lab09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/lab15.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab10/lab10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab13/lab13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab10/target/lab10-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/target/lab10-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/lab11-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/lab11-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/target/lab12-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/target/lab12-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/target/lab12-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/target/lab12-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12_ant/web/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12_ant/web/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/src/main/java/WebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/src/main/java/WebSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/src/main/webapp/WebSockets.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/src/main/webapp/WebSockets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/target/classes/WebSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/target/classes/WebSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/target/lab16-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/target/lab16-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/target/lab16-1.0-SNAPSHOT/WEB-INF/classes/WebSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/target/lab16-1.0-SNAPSHOT/WEB-INF/classes/WebSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/target/lab16-1.0-SNAPSHOT/WebSockets.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/target/lab16-1.0-SNAPSHOT/WebSockets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/Лабораторная_16_WebSocket/websocket tomcat8/source/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/Лабораторная_16_WebSocket/websocket tomcat8/source/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/Лабораторная_16_WebSocket/websocket tomcat8/source/websock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/Лабораторная_16_WebSocket/websocket tomcat8/websockLVC/WEB-INF/classes/websock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/Лабораторная_16_WebSocket/websocket tomcat8/websockLVC/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/Лабораторная_16_WebSocket/websocket tomcat8/websockLVC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Контролььные работы/Конрольная работа.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_01_Введение/ОПИП_Лекция_01_Введение.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_02_Основы_web-программирования/ОПИП_Лекция_02_Основы_web-программирования.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_02_Основы_web-программирования/черновой_DOM.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_03_Общие_принципы_построения_web-приложений/ОПИП_Лекция_03.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_04_HTTP-аутентификация/xxxxОПИП_Лекция_04_HTTP_authen.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_04_HTTP-аутентификация/ОПИП_Лекция_04_HTTP_authen.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_05_НTTP2/HTTP2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_06_WebDAV/Лекция_06_WebDAV.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_07_Браузерное_программирование/Документ1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_07_Браузерное_программирование/Документ1X.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_07_Браузерное_программирование/ОПИП_Лекция_07_БраузерноеПрограммирование.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_XX_WebStorage_IndexedDB_WebSQL/WebStorage_IndexedDB_WebSQL.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Лекция_XX_Архитектура_Internet-приложений/Архитектура_Internet-приложений.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Ресурсы/JSTrend-Tproger.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Ресурсы/ReactDevelopment2019.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Ресурсы/TCP-HTTP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Ресурсы/web-2019.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Ресурсы/В помощь веб.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Лекции/Ресурсы/ресурсы.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,6 +191,7 @@
       <workItem from="1570165620781" duration="7695000" />
       <workItem from="1570698231073" duration="505000" />
       <workItem from="1571935114245" duration="1138000" />
+      <workItem from="1575537018338" duration="1420000" />
     </task>
     <servers />
   </component>

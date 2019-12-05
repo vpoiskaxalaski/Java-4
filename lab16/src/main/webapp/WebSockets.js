@@ -22,7 +22,8 @@ function exe_start() {
     if(ws==null){
         ws=new WebSocket('ws://localhost:8081/lab16_war/socket');
         ws.onopen=function () {
-            ws.send('Connection');
+            ta.innerHTML+='\n'+'Connection';
+            ws.send("hello");
         }
         ws.onclose=function (s) {
             console.log('onclose',s);

@@ -1,8 +1,6 @@
-import javax.websocket.Endpoint;
-import javax.websocket.EndpointConfig;
-import javax.websocket.RemoteEndpoint;
-import javax.websocket.Session;
+import javax.websocket.*;
 import javax.websocket.server.ServerEndpoint;
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -10,6 +8,7 @@ import java.util.Date;
 public class WebSocket extends Endpoint {
     @Override
     public void onOpen(Session session, EndpointConfig endpointConfig){
+        System.out.println("open");
         try {
             RemoteEndpoint.Basic remoteEndpointBasic = session.getBasicRemote();
             SimpleDateFormat format = new SimpleDateFormat("hh:mm:ss");
@@ -21,4 +20,13 @@ public class WebSocket extends Endpoint {
             System.out.println(e.getMessage());
         }
     }
+
+    @Override
+    public void onClose(Session session, CloseReason closeReason) {
+        System.out.println("close");
+
+        super.onClose(session, closeReason);
+    }
+
+
 }

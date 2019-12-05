@@ -1,14 +1,8 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: aliona.sauchuk
-  Date: 10/2/2019
-  Time: 8:56 PM
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>lab_10</title>
+    <title>lab_11</title>
     <script src="scripts/jquery-3.2.1.js"></script>
 </head>
 <body>
